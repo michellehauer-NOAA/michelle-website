@@ -1,0 +1,366 @@
+[
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae (Under Construction)",
+    "section": "",
+    "text": "A current CV or resume can be downloaded below\nDownload CV"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Michelle Hauer, Ph.D.",
+    "section": "",
+    "text": "Molecular ecologist\neDNA · fisheries science · quantitative ecology · population genomics · deep-sea ecology · symbiosis"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Michelle Hauer\nPostdoctoral Scholar\nUniversity of Washington - School of Marine and Environmental Affairs & and the National Oceanic & Atmospheric Administration’s (NOAA) Northwest Fisheries Science Center, in support of the Genetics and Evolution Program within the Conservation Biology Division.\n\nContact\n\n michelle.hauer@noaa.gov\n Google Scholar\n GitHub-Personal\n GitHub-NOAA\n LinkedIn\n X\n\n\n Bluesky"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research (Under Construction)",
+    "section": "",
+    "text": "My research combines molecular ecology, quantitative modeling, oceanography, and bioinformatics to understand marine ecosystems that are difficult—or impossible—to observe directly. From hydrothermal vent symbioses thousands of meters below the ocean surface to pelagic fisheries across the California Current, I use molecular data to investigate biodiversity, species interactions, population connectivity, and ecosystem dynamics."
+  },
+  {
+    "objectID": "fieldwork.html",
+    "href": "fieldwork.html",
+    "title": "Fieldwork",
+    "section": "",
+    "text": "My field research spans deep-sea hydrothermal vents, NOAA fisheries surveys, alpine streams, geothermal landscapes, tropical rainforests, and coastal marine ecosystems. I have spent more than 135 days at sea aboard oceanographic research vessels and have conducted coastal, freshwater, and terrestrial fieldwork across diverse ecological systems, from microbial communities to marine mammals."
+  },
+  {
+    "objectID": "fieldwork.html#quarto",
+    "href": "fieldwork.html#quarto",
+    "title": "Untitled",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "fieldwork.html#running-code",
+    "href": "fieldwork.html#running-code",
+    "title": "Untitled",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "code.html",
+    "href": "code.html",
+    "title": "Code and Open Science (Under Construction)",
+    "section": "",
+    "text": "Code\nI develop open-source analytical workflows for environmental DNA, quantitative ecology, fisheries science, and molecular ecology. My work emphasizes reproducible research, statistical modeling, and scientific visualization using R, Python, and Git.\n\nGeospatial eDNA Modeling\nSpecies distribution models for Pacific hake, sardine, and anchovy using sdmTMB, AR1 spatiotemporal models, and NOAA acoustic surveys.\nSkills: • R • sdmTMB • INLA • GIS • Quarto\n[GitHub]\n\nqPCR Analysis Pipelines\nAutomated workflows for quality control, inhibition detection, standard curves, copy-number estimation, and large-scale qPCR data processing.\nSkills: • R • tidyverse • ggplot2 • Quarto\n[GitHub]\n\nBioinformatics\nAnalysis of metagenomes, microbial population genomics, comparative genomics, and environmental sequencing datasets.\nSkills: • Python • Bash • Snakemake • Linux\n\nInteractive Visualization\nInteractive figures, websites, dashboards, and scientific reports built with Quarto.\nExamples: • This website • Interactive maps • Publication-quality figures\n\nOpen Source\nGitHub profile"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications and Manuscripts",
+    "section": "",
+    "text": "Google Scholar"
+  },
+  {
+    "objectID": "research.html#environmental-dna-and-fisheries-science",
+    "href": "research.html#environmental-dna-and-fisheries-science",
+    "title": "Research",
+    "section": "",
+    "text": "My current research focuses on advancing environmental DNA methods for fisheries management, ecosystem monitoring, and conservation of marine species. I use qPCR, metabarcoding, statistical modeling, geospatial analysis, and fisheries survey data to investigate marine fish distribution and abundance."
+  },
+  {
+    "objectID": "research.html#quantitative-edna-modeling",
+    "href": "research.html#quantitative-edna-modeling",
+    "title": "Research (Under Construction)",
+    "section": "Quantitative eDNA Modeling",
+    "text": "Quantitative eDNA Modeling\n\nOne of the central goals of my research is transforming molecular observations into ecological inference.\nI develop spatial and spatiotemporal statistical models that integrate environmental DNA with oceanographic variables and NOAA fisheries survey data to estimate species abundance and distribution. These approaches combine molecular ecology with quantitative ecology, geostatistics, and fisheries science to improve our ability to monitor marine populations over large spatial scales.\nCurrent work includes:\n\nGeostatistical eDNA models\nSpatiotemporal abundance estimation\nIntegration of acoustic survey data\nSpecies-specific qPCR calibration\nUncertainty estimation for quantitative eDNA"
+  },
+  {
+    "objectID": "research.html#deep-sea-genomics-and-symbiosis",
+    "href": "research.html#deep-sea-genomics-and-symbiosis",
+    "title": "Research",
+    "section": "Deep-sea genomics and symbiosis",
+    "text": "Deep-sea genomics and symbiosis\nMy doctoral research investigated microbial symbiosis, population genomics, bacteriophage, and larval ecology of hydrothermal vent invertebrates. This work involved deep-sea expeditions, large-volume water sampling, metagenomics, population genomics, and bioinformatic analyses."
+  },
+  {
+    "objectID": "research.html#metabarcoding-and-community-ecology",
+    "href": "research.html#metabarcoding-and-community-ecology",
+    "title": "Research",
+    "section": "Metabarcoding and community ecology",
+    "text": "Metabarcoding and community ecology\nI use environmental DNA metabarcoding and time-series analyses to characterize marine community composition, investigate species co-occurrence, and support ecosystem assessments."
+  },
+  {
+    "objectID": "publications.html#submitted",
+    "href": "publications.html#submitted",
+    "title": "Publications and Manuscripts",
+    "section": "",
+    "text": "Hirsch, S., Brandão Dias, P., Bhattacharjee, S., Hauer, M., & Ip, Y. C. A. Embracing Environmental DNA (eDNA): Trust, Skepticism, and Competence in an Emerging Method. Submitted to Journal of Applied Ecology (Practitioner’s Perspective)."
+  },
+  {
+    "objectID": "publications.html#in-preparation",
+    "href": "publications.html#in-preparation",
+    "title": "Publications and Manuscripts",
+    "section": "In Preparation",
+    "text": "In Preparation\nHauer, M., et al. Evaluating agreement between environmental DNA- and acoustic-derived models of Pacific sardine and northern anchovy in the California Current Ecosystem. Manuscript in preparation.\nHauer, M., et al. Time-series analysis and geospatial abundance modeling of Pacific hake, Pacific sardine, and northern anchovy using environmental DNA in the California Current Ecosystem. Manuscript in preparation."
+  },
+  {
+    "objectID": "publications.html#submitted-manuscripts",
+    "href": "publications.html#submitted-manuscripts",
+    "title": "Publications and Manuscripts",
+    "section": "Submitted Manuscripts",
+    "text": "Submitted Manuscripts\n\n\nHirsch, S., Brandão Dias, P., Bhattacharjee, S., Hauer, M., & Ip, Y. C. A. Embracing Environmental DNA (eDNA): Trust, Skepticism, and Competence in an Emerging Method. Submitted to Journal of Applied Ecology (Practitioner’s Perspective), June 2026.\n\n\neDNAScience & Society"
+  },
+  {
+    "objectID": "publications.html#manuscripts-in-preparation",
+    "href": "publications.html#manuscripts-in-preparation",
+    "title": "Publications and Manuscripts",
+    "section": "Manuscripts in Preparation",
+    "text": "Manuscripts in Preparation\n\n\nHauer, M., Shelton, A., Parsons, K., Parsley, M., Engster, S., Betts, M., Pohl, J., Hyde, J., Clemons, J., Zwolinski, J., Renfree, J., Stierhoff, K., Kelly, R., & Nichols, K. Evaluating agreement between environmental DNA- and acoustic-derived models of Pacific sardine and northern anchovy in the California Current Ecosystem. Manuscript in preparation.\n\n\neDNAFisheries & Fish EcologyQuantitative EcologyqPCR\n\n\n\n\nHauer, M., Shelton, A., Parsons, K., Parsley, M., Engster, S., Betts, M., Pohl, J., Hyde, J., Clemons, J., Kelly, R., & Nichols, K. Time-series analysis and geospatial abundance modeling of Pacific hake, Pacific sardine, and northern anchovy using environmental DNA in the California Current Ecosystem. Manuscript in preparation.\n\n\neDNAFisheries & Fish EcologyQuantitative EcologyqPCR\n\n\n\n\nHauer, M. A., Klier, K. M., Langwig, M. V., Anantharaman, K., & Beinart, R. A. Patterns of lytic phages are more variable than lysogenic phage infections in chemosymbiotic bacterial species through time at hydrothermal vents in the Lau Basin. Manuscript in preparation for ISME Journal.\n\n\nHydrothermal VentsPopulation GenomicsPhageSymbiosisDeep-Sea Ecology\n\n\n\n\nHauer, M. A., Becker, J. S., Phillips, B., & Beinart, R. A. Free-living, environmental symbiont species from Lau Basin exhibit variable biogeographic and microhabitat abundances. Manuscript in preparation for ISME Journal.\n\n\nQuantitative EcologyHydrothermal VentsMetabarcodingSymbiosisDeep-Sea Ecology"
+  },
+  {
+    "objectID": "publications.html#peer-reviewed-publications",
+    "href": "publications.html#peer-reviewed-publications",
+    "title": "Publications and Manuscripts",
+    "section": "Peer-Reviewed Publications",
+    "text": "Peer-Reviewed Publications\n\n2026\n\n\nHauer, M. A., Klier, K. M., Langwig, M. V., Anantharaman, K., & Beinart, R. A. Phage-microbe interactions may contribute to the population structure and dynamics of hydrothermal vent symbionts. ISME Communications, 6(1), ycag022. 2026. ↗\n\n\nHydrothermal VentsPopulation GenomicsPhageSymbiosisDeep-Sea Ecology\n\n\n\n\n2025\n\n\nBreusing, C., Hauer, M. A., Hughes, I. V., Becker, J. S., Casagrande, D., Phillips, B. T., Girguis, P. R., & Beinart, R. A. Contrasting genomic responses of hydrothermal vent animals and their symbionts to population decline after the Hunga volcanic eruption. Molecular Ecology, 34(21), e70126. 2025. ↗\n\n\nHydrothermal VentsPopulation GenomicsSymbiosisDeep-Sea Ecology\n\n\n\n\n2024\n\n\nBeinart, R. A., Chaknova, M., Arellano, S. M., Davis, D., Jimenez, V., Calhoun, A., Beaver, T., Becker, J. S., Bergen, S., Betters, M., Brunner, L., Cowell, E. J., Hauer, M., Heffernan, M., Ladd, T., Plowman, C. Q., Rice, L. N., Taradash, A. C., Giachetti, T., & Young, C. M. Deep seafloor hydrothermal vent communities buried by volcanic ash from the 2022 Hunga eruption. Communications Earth & Environment, 5, 254. 2024. ↗\n\n\nHydrothermal VentsDeep-Sea Ecology\n\n\n\n\n2023\n\n\nHauer, M. A., Breusing, C., Trembath-Reichert, E., Huber, J. A., & Beinart, R. A. Geography, not lifestyle, explains the population structure of free-living and host-associated deep-sea hydrothermal vent snail symbionts. Microbiome, 11, 106. 2023. ↗\n\n\nHydrothermal VentsPopulation GenomicsSymbiosisDeep-Sea Ecology\n\n\n\n\n2022\n\n\nBreusing, C., Klobusnik, N. H., Hauer, M. A., & Beinart, R. A. Genome assembly of the chemosynthetic endosymbiont of the hydrothermal vent snail Alviniconcha adamantis from the Mariana Arc. G3: Genes|Genomes|Genetics, 12(10), jkac220. 2022. ↗\n\n\nHydrothermal VentsGenomicsSymbiosisDeep-Sea Ecology\n\n\n\n\n2020\n\n\nLim, D. S. S., Raineault, N. A., Breier, J. A., Chan, E., Chernov, J., Cohen, T., Deans, M., Garcia, A., German, C. R., Hauer, M., Hu, S., Huber, J. A., Kane, R., Nawotniak, S. K., Lees, D., Lowe, J., Lubetkin, M., Marsh, L., Milesi, V., et al. SUBSEA 2019 Expedition to the Gorda Ridge. Oceanography, 33(1), 36–37. 2020. ↗\n\n\nHydrothermal VentsDeep-Sea Ecology\n\n\n\n\n2018\n\n\nStaaterman, E., Brandl, S. J., Hauer, M., Casey, J. M., Gallagher, A. J., & Rice, A. N. Individual voices in a cluttered soundscape: acoustic ecology of the Bocon toadfish, Amphichthys cryptocentrus. Environmental Biology of Fishes, 101(6), 979–995. 2018. ↗\n\n\nSoundscape EcologyFish Behavior\n\n\n\n\n2015\n\n\nJachowski, V. M., Kenny, L., Hauer, M., Kühn, A., & Barrett, S. A Preliminary Study of Soundscape Analysis as a Measurement of Ecosystem Health. DePaul Discoveries, 4(1). 2015. ↗\n\n\nSoundscape Ecology"
+  },
+  {
+    "objectID": "publications.html#environmental-dna-and-fisheries",
+    "href": "publications.html#environmental-dna-and-fisheries",
+    "title": "Publications and Manuscripts",
+    "section": "Environmental DNA and Fisheries",
+    "text": "Environmental DNA and Fisheries\n\nEmbracing Environmental DNA (eDNA): Trust, Skepticism, and Competence in an Emerging Method. Submitted.\nEvaluating agreement between environmental DNA- and acoustic-derived models… In preparation.\nTime-series analysis and geospatial abundance modeling… In preparation."
+  },
+  {
+    "objectID": "publications.html#geospatial-modeling-and-time-series",
+    "href": "publications.html#geospatial-modeling-and-time-series",
+    "title": "Publications and Manuscripts",
+    "section": "Geospatial Modeling and Time Series",
+    "text": "Geospatial Modeling and Time Series\n\nEvaluating agreement between environmental DNA- and acoustic-derived models… In preparation.\nTime-series analysis and geospatial abundance modeling… In preparation."
+  },
+  {
+    "objectID": "publications.html#hydrothermal-vent-genomics-and-symbiosis",
+    "href": "publications.html#hydrothermal-vent-genomics-and-symbiosis",
+    "title": "Publications and Manuscripts",
+    "section": "Hydrothermal Vent Genomics and Symbiosis",
+    "text": "Hydrothermal Vent Genomics and Symbiosis\n\nPhage-microbe interactions may contribute… 2026. ↗\nContrasting genomic responses… 2025. ↗\nDeep seafloor hydrothermal vent communities buried… 2024. ↗\nGeography, not lifestyle… 2023. ↗\nGenome assembly of the chemosynthetic endosymbiont… 2022. ↗"
+  },
+  {
+    "objectID": "publications.html#bioacoustics-and-soundscape-ecology",
+    "href": "publications.html#bioacoustics-and-soundscape-ecology",
+    "title": "Publications and Manuscripts",
+    "section": "Bioacoustics and Soundscape Ecology",
+    "text": "Bioacoustics and Soundscape Ecology\n\nIndividual voices in a cluttered soundscape… 2018. ↗\nA Preliminary Study of Soundscape Analysis as a Measurement of Ecosystem Health. 2015. ↗"
+  },
+  {
+    "objectID": "publications.html#expedition-and-deep-sea-ecology",
+    "href": "publications.html#expedition-and-deep-sea-ecology",
+    "title": "Publications and Manuscripts",
+    "section": "Expedition and Deep-Sea Ecology",
+    "text": "Expedition and Deep-Sea Ecology\n\nSUBSEA 2019 Expedition to the Gorda Ridge. 2020. ↗\nDeep seafloor hydrothermal vent communities buried… 2024. ↗"
+  },
+  {
+    "objectID": "publications.html#geospatial-modeling",
+    "href": "publications.html#geospatial-modeling",
+    "title": "Publications and Manuscripts",
+    "section": "Geospatial Modeling",
+    "text": "Geospatial Modeling\n\nEvaluating agreement between environmental DNA- and acoustic-derived models… In preparation.\nTime-series analysis and geospatial abundance modeling… In preparation."
+  },
+  {
+    "objectID": "publications.html#hydrothermal-vent-ecology-genomics-symbiosis-and-microbe-phage-interactions",
+    "href": "publications.html#hydrothermal-vent-ecology-genomics-symbiosis-and-microbe-phage-interactions",
+    "title": "Publications and Manuscripts",
+    "section": "Hydrothermal Vent Ecology (genomics, symbiosis, and microbe-phage interactions)",
+    "text": "Hydrothermal Vent Ecology (genomics, symbiosis, and microbe-phage interactions)\n\nPhage-microbe interactions may contribute… 2026. ↗\nContrasting genomic responses… 2025. ↗\nDeep seafloor hydrothermal vent communities buried… 2024. ↗\nGeography, not lifestyle… 2023. ↗\nGenome assembly of the chemosynthetic endosymbiont… 2022. ↗\nSUBSEA 2019 Expedition to the Gorda Ridge. 2020. ↗"
+  },
+  {
+    "objectID": "fieldwork.html#oceanographic-expeditions",
+    "href": "fieldwork.html#oceanographic-expeditions",
+    "title": "Fieldwork",
+    "section": "Oceanographic Expeditions",
+    "text": "Oceanographic Expeditions\n\n\nNOAA Ship R/V Shimada\nCalifornia Current Ecosystem · 2025 · 18 days\nNOAA Integrated West Coast Pelagics Survey investigating ecologically and economically important forage fishes. Served as Lead eDNA Scientist, directing daily eDNA sampling operations, coordinating logistics among scientific teams and vessel personnel, and collecting environmental samples using CTD rosette systems to support quantitative fisheries research.\n\n\nR/V Falkor (too)\nWestern Galápagos Spreading Center · 2023 · 30 days · ROV SuBastian\nMultidisciplinary expedition investigating the biology, chemistry, and geology of hydrothermal vents while searching for previously undiscovered vent systems. Led the Suspended Particulate Rosette (SuPR) sampling team, training and supervising four graduate students during collection of in situ water samples for microbial community and symbiont population genomics.\n\n\nR/V Thomas G. Thompson\nLau Basin · 2022 · 60 days · ROV Jason\nExpedition investigating larval dispersal, microbial symbiosis, and population genomics of Western Pacific hydrothermal vent communities. Led the Suspended Particulate Rosette (SuPR) sampling team, directed colonization device development, deployment, and recovery, participated in invertebrate dissections, and helped generate one of the largest published datasets of free-living hydrothermal vent symbiont DNA.\n\n\nE/V Nautilus\nGorda Ridge · 2018 · 20 days · ROV Hercules\nNASA SUBSEA astrobiology expedition investigating hydrothermal vent systems as analogs for extraterrestrial environments on Europa and Enceladus. Collected and processed in situ water samples using the Suspended Particulate Rosette (SuPR) sampler for microbial and biogeochemical analyses.\n\n\nR/V Endeavor\nBaltimore Canyon · 2019 · 7 days\nExpedition testing a novel, low-cost deep-sea benthic grab designed to collect hydrothermal vent invertebrates without requiring ROV-supported operations. Assisted with specimen collection, dissection, preservation, and trained undergraduate researchers in shipboard sampling and laboratory techniques."
+  },
+  {
+    "objectID": "fieldwork.html#terrestrial-and-coastal-field-research",
+    "href": "fieldwork.html#terrestrial-and-coastal-field-research",
+    "title": "Fieldwork",
+    "section": "Terrestrial and Coastal Field Research",
+    "text": "Terrestrial and Coastal Field Research\n\n\nMontana Backcountry\nConducted remote fieldwork in Montana watersheds as part of an NSF-funded project on aquatic insects and climate change. Collected aquatic insect and environmental samples while wading streams, navigating rugged backcountry terrain, and working in bear habitat.\n\n\nTropical Rainforest Fieldwork\nConducted independent field research in remote tropical rainforest, hiking off-trail for up to 10 hours per day to locate and monitor wild bird nests. Collected behavioral and ecological data and conducted metabolic and predator-response experiments under demanding field conditions.\n\n\nBottlenose Dolphin Research Institute\nConducted vessel-based behavioral observations of free-ranging bottlenose dolphins, recorded standardized behavioral and environmental data in real time, performed photo-identification using DARWIN software, maintained research databases and backups, assisted with stomach-content analyses, and assisted with marine mammal necropsies."
+  },
+  {
+    "objectID": "fieldwork.html#field-skills",
+    "href": "fieldwork.html#field-skills",
+    "title": "Fieldwork",
+    "section": "Field Skills",
+    "text": "Field Skills\n\n\nOceanographic Sampling\n\nCTD rosette sampling\nThrough-hull seawater sampling\nSuspended Particulate Rosette sampling\nLarge-volume water collection\nContamination-conscious eDNA sampling\n\n\n\nDeep-Sea Research\n\nHydrothermal vent fieldwork\nROV-supported biological sampling\nColonization device deployment and recovery\nInvertebrate dissections\nSymbiont and microbial ecology sampling\n\n\n\nEcological Fieldwork\n\nAquatic insect sampling\nStream and watershed fieldwork\nBird nest monitoring\nPredator-response experiments\nBehavioral observations\n\n\n\nLeadership and Logistics\n\nCruise project leadership\nSampling coordination\nField safety protocols\nTeam training and supervision\nInternational field collaboration"
+  },
+  {
+    "objectID": "fieldwork.html#terrestrial-freshwater-and-coastal-field-research",
+    "href": "fieldwork.html#terrestrial-freshwater-and-coastal-field-research",
+    "title": "Fieldwork",
+    "section": "Terrestrial, Freshwater and Coastal Field Research",
+    "text": "Terrestrial, Freshwater and Coastal Field Research\n\n\nCoral Reef Restoration\nTurks and Caicos Reef Fund · Turks and Caicos Islands · 2021\nConducted snorkeling-based assessments of artificial reef restoration sites, evaluating reef condition and environmental characteristics associated with coral establishment. Documented restoration activities and reef health using underwater photography to support science communication and outreach.\n\n\nShark Conservation\nBeneath the Waves · Turks and Caicos Islands · 2021\nAssisted with shark capture and tagging operations, including bait deployment and deployment of Baited Remote Underwater Video Systems (BRUVS) to survey reef-associated shark communities. Documented field operations and shark tagging using underwater photography to support scientific outreach and conservation communication.\n\n\nTropical Rainforest Bird Ecology\nICESI University · Farallones de Cali National Park, Colombia · 2018\nConducted independent field research in remote tropical rainforest, hiking off-trail for up to 10 hours per day to locate and monitor wild bird nests for ecological and physiological studies. Conducted predator-response and metabolic experiments, collected behavioral and ecological data, and coordinated research activities within a multilingual field station.\n\n\nAquatic Insect Ecology\nMontana · 2017\nConducted fieldwork in remote watersheds as part of an NSF-funded climate change project investigating aquatic insects. Collected stonefly and environmental samples while wading high-gradient streams, navigating rugged backcountry terrain, and working in bear habitat. Developed molecular protocols for DNA extraction and maintained project databases and metadata.\n\n\nGeothermal Microbial Ecology\nYellowstone National Park, WY · 2017\nCollected microbial mat, sediment, and environmental samples from geothermal hot springs in remote backcountry environments. Measured temperature, pH, dissolved oxygen, salinity, conductivity, and other physicochemical parameters to characterize microbial habitats.\n\n\nFisheries & Fish Ecology\nChesapeake Bay & Mid-Atlantic Estuaries, MD · 2016\nConducted laboratory and field research investigating estuarine fish ecology, fisheries conservation, and anthropogenic noise. Performed vessel- and shore-based fish sampling using multiple capture techniques. Contributed to river herring conservation, oyster reef restoration surveys, passive acoustic monitoring, fish tagging studies, and analyses of fish behavior and communication using MATLAB.\n\n\nMarine Mammal Research\nBottlenose Dolphin Research Institute · O’Grove, Spain · 2014\nConducted vessel-based behavioral observations of free-ranging bottlenose dolphins, performed photo-identification using DARWIN software, managed behavioral databases, assisted with stomach-content analyses, and participated in marine mammal necropsies supporting long-term population monitoring."
+  },
+  {
+    "objectID": "fieldwork.html#field-experience-highlights",
+    "href": "fieldwork.html#field-experience-highlights",
+    "title": "Fieldwork",
+    "section": "Field Experience Highlights",
+    "text": "Field Experience Highlights\n\n\nField Leadership & Logistics\n\nCruise project leadership\nSampling coordination across scientific teams\nGraduate and undergraduate student training\nField safety in remote environments\nInternational and multilingual field collaboration\nScience communication through field documentation"
+  },
+  {
+    "objectID": "fieldwork.html#specialized-field-techniques",
+    "href": "fieldwork.html#specialized-field-techniques",
+    "title": "Fieldwork",
+    "section": "Specialized Field Techniques",
+    "text": "Specialized Field Techniques\n\n\nOceanographic & Deep-Sea Sampling\n\nCTD rosette sampling\nThrough-hull seawater sampling\nSuspended Particulate Rosette sampling\nLarge-volume water collection\nROV-supported biological sampling\nDeep-sea benthic grab testing\n\n\n\nMolecular & Environmental Sampling\n\nContamination-conscious eDNA sampling\nMicrobial mat and sediment sampling\nHydrothermal vent fluid-associated sampling\nBiological specimen collection and preservation\nTissue collection and dissections\nEnvironmental metadata collection\n\n\n\nEcological Survey Methods\n\nBRUVS deployment\nSeine netting and fish capture\nFish tagging support\nPassive acoustic monitoring\nMarine mammal photo-identification\nBird nest monitoring\nCoral reef condition assessments\n\n\n\nField Leadership & Logistics\n\nCruise project leadership\nSampling coordination across scientific teams\nGraduate and undergraduate student training\nField safety in remote environments\nInternational and multilingual field collaboration\nScience communication through field documentation"
+  },
+  {
+    "objectID": "communication.html",
+    "href": "communication.html",
+    "title": "Science Communication (Under Construction)",
+    "section": "",
+    "text": "Science communication is a central part of my work as a scientist. I enjoy translating research across disciplines and audiences through public talks, documentary filmmaking, outreach, art–science collaborations, and community engagement. My work aims to make marine science accessible while fostering dialogue between researchers, artists, educators, and the public."
+  },
+  {
+    "objectID": "communication.html#featured-projects",
+    "href": "communication.html#featured-projects",
+    "title": "Science Communication (Under Construction)",
+    "section": "Featured Projects",
+    "text": "Featured Projects\n\n\nDocumentary Filmmaking\nServed as lead filmmaker for a documentary project during a month-long oceanographic expedition aboard R/V Falkor (too). Planned and captured footage documenting daily life aboard a research vessel, hydrothermal vent exploration, and scientific field operations.\n\n\nArt & Science\nCollaborated with sculptors, visual artists, and scientists through the Synergy Experience, developing interdisciplinary projects exploring relationships between art, ecology, and environmental research. Work was featured in multiple gallery exhibitions.\n\n\nPublic Engagement\nOrganize and facilitate public art-and-science communication events drawing approximately 200–600 attendees, bringing together researchers, artists, musicians, and community members around environmental themes."
+  },
+  {
+    "objectID": "communication.html#invited-talks-conference-presentations",
+    "href": "communication.html#invited-talks-conference-presentations",
+    "title": "Science Communication (Under Construction)",
+    "section": "Invited Talks & Conference Presentations",
+    "text": "Invited Talks & Conference Presentations\n\nDeep-Sea Biology Society (2021)\nPresentation\nAlviniconcha hessleri symbiont population structure by vent field and not by lifestyle.\n\n\nURI Graduate School of Oceanography Student Seminar\n2021 — Presentation\nComparative genomics of deep-sea hydrothermal vent snail Alviniconcha hessleri symbionts.\n2020 — Presentation\nGenome content and characteristics of a deep-sea hydrothermal vent snail symbiont.\n\n\nSociety of Women in Marine Science Symposium (2020)\nInvited Speaker\nHelping undergraduate students navigate graduate school applications.\n\n\nSmithsonian Environmental Research Center\n2020\nGuest presentation.\n2016\nAcoustic Behaviors of the Bocon Toadfish.\n\n\nURI Microbiome Symposium (2020)\nPoster\nAssembling the Genome of a Chemosynthetic Symbiont from Deep-Sea Hydrothermal Vent Snail Alviniconcha hessleri.\n\n\nGlobal Sustainable Soundscape Network (2015)\nPresentation\nA Preliminary Study of Soundscape Analysis as a Measurement of Ecosystem Health.\n\n\nDePaul University\n\nDePaul Art Museum (2015) — Lecture\nSchool of Music (2014) — Lecture\nPhilosophy Department (2014) — Lecture\nScience Symposium (2014, 2015) — Posters"
+  },
+  {
+    "objectID": "communication.html#outreach-community-engagement",
+    "href": "communication.html#outreach-community-engagement",
+    "title": "Science Communication (Under Construction)",
+    "section": "Outreach & Community Engagement",
+    "text": "Outreach & Community Engagement\n\nDeep Ocean Stewardship Initiative (DOSI), Science Communication (2021–2022)\nBayInformed (2018–present)\nURI Office of Marine Programs, Outreach Scientist (2019)\nInner Space Center Volunteer (2019)\nRhode Island Museum of Science & Art (2019)\nConservation Genetics Workshop Volunteer (2016)"
+  },
+  {
+    "objectID": "communication.html#community-art-science",
+    "href": "communication.html#community-art-science",
+    "title": "Science Communication (Under Construction)",
+    "section": "Community Art & Science",
+    "text": "Community Art & Science\n\nSynergist Vol. I (2018)\nSynergist Vol. II Co-organizer (2019)\nSynergy Experience (2024)"
+  },
+  {
+    "objectID": "photo.html",
+    "href": "photo.html",
+    "title": "Photography (Under Construction)",
+    "section": "",
+    "text": "![](images/landscapes/image-name.jpg)"
+  },
+  {
+    "objectID": "photo.html#featured-galleries",
+    "href": "photo.html#featured-galleries",
+    "title": "Photography",
+    "section": "Featured Galleries",
+    "text": "Featured Galleries\n\n\nFieldwork & Expeditions\nImages from research vessels, oceanographic expeditions, field stations, and scientific sampling operations.\nView gallery\n\n\nUnderwater & Coastal\nCoral reefs, sharks, snorkeling-based fieldwork, coastal ecosystems, and underwater documentation.\nView gallery\n\n\nWildlife\nBirds, marine mammals, fish, invertebrates, and other organisms encountered through field research and natural history observation.\nView gallery\n\n\nLandscapes & Environments\nDeep-sea, alpine, rainforest, desert, geothermal, and coastal environments.\nView gallery"
+  },
+  {
+    "objectID": "photo.html#fieldwork-expeditions-1",
+    "href": "photo.html#fieldwork-expeditions-1",
+    "title": "Photography",
+    "section": "Fieldwork & Expeditions",
+    "text": "Fieldwork & Expeditions\nAdd images here.\n![](images/fieldwork/image-name.jpg)"
+  },
+  {
+    "objectID": "photo.html#underwater-coastal-1",
+    "href": "photo.html#underwater-coastal-1",
+    "title": "Photography",
+    "section": "Underwater & Coastal",
+    "text": "Underwater & Coastal\nAdd images here.\n![](images/underwater/image-name.jpg)"
+  },
+  {
+    "objectID": "photo.html#wildlife-1",
+    "href": "photo.html#wildlife-1",
+    "title": "Photography",
+    "section": "Wildlife",
+    "text": "Wildlife\nAdd images here.\n![](images/wildlife/image-name.jpg)"
+  },
+  {
+    "objectID": "photo.html#landscapes-environments-1",
+    "href": "photo.html#landscapes-environments-1",
+    "title": "Photography",
+    "section": "Landscapes & Environments",
+    "text": "Landscapes & Environments\nAdd images here.\n![](images/landscapes/image-name.jpg)"
+  },
+  {
+    "objectID": "index.html#research-areas",
+    "href": "index.html#research-areas",
+    "title": "Michelle Hauer",
+    "section": "Research areas",
+    "text": "Research areas\n\n\nFisheries eDNA\nQuantitative eDNA methods for estimating marine fish distribution and abundance in the California Current Ecosystem.\n\n\nHydrothermal vents\nPopulation genomics, microbial symbiosis, and deep-sea conservation of hydrothermal vent invertebrates.\n\n\nMarine communities\nMetabarcoding, co-occurrence, time-series analysis, and ecosystem assessment using long-term NOAA survey data.\n\n\nScience communication\nArt-science collaborations, documentary work, public outreach, and interdisciplinary research on eDNA adoption."
+  },
+  {
+    "objectID": "index.html#my-work-generally-falls-into-two-main-research-areas",
+    "href": "index.html#my-work-generally-falls-into-two-main-research-areas",
+    "title": "Michelle Hauer",
+    "section": "My work generally falls into two main research areas:",
+    "text": "My work generally falls into two main research areas:\n\n\nEnvironmental DNA & Fisheries Ecology\nI develop molecular and quantitative approaches for understanding marine communities and fisheries in the California Current Ecosystem. My research integrates quantitative eDNA, metabarcoding, community ecology, species co-occurrence, spatial modeling, and fisheries survey data to improve biodiversity monitoring, abundance estimation, and ecosystem-based management.\n\n\nHydrothermal Vent Ecology\nI study the ecology and evolution of deep-sea hydrothermal vent ecosystems, with a particular focus on host–microbe symbioses, population genomics, microbial biogeography, and phage–microbe interactions. My work combines oceanographic field expeditions, molecular ecology, and bioinformatics to understand how organisms adapt and persist in one of Earth’s most extreme environments."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Michelle Hauer, Ph.D.",
+    "section": "About Me",
+    "text": "About Me\n\n\n\n\n\nI am a Postdoctoral Scholar jointly appointed at the University of Washington’s School of Marine and Environmental Affairs and NOAA’s Northwest Fisheries Science Center, where I develop molecular and quantitative approaches for marine conservation and fisheries science. I earned my Ph.D. in Oceanography from the University of Rhode Island’s Graduate School of Oceanography in 2024.\nMy research spans marine systems that are difficult to observe directly, from fish communities across the California Current Ecosystem to microbial symbioses at deep-sea hydrothermal vents. I am interested in how interactions among organisms shape ecological systems across scales, and how molecular tools can reveal the otherwise hidden biological patterns that underlie biodiversity, population structure, species distributions, and ecosystem dynamics."
+  },
+  {
+    "objectID": "index.html#research-themes",
+    "href": "index.html#research-themes",
+    "title": "Michelle Hauer, Ph.D.",
+    "section": "Research Themes",
+    "text": "Research Themes\n\n\n\n\nEnvironmental DNA & Fisheries Ecology\nMarine ecosystems are vast, dynamic, and often impossible to observe directly. I am fascinated by the idea that organisms continually leave behind molecular traces that allow us to study biodiversity without capturing, disturbing, or even seeing the species themselves. Environmental DNA offers a non-invasive approach to understanding marine ecosystems while expanding the kinds of ecological questions we are able to ask.\nMy research combines quantitative eDNA, metabarcoding, community ecology, species co-occurrence, spatial modeling, and fisheries survey data to investigate marine biodiversity, estimate species abundance, and understand how ecological communities respond to environmental change.\nNorthern Anchovy, Credit: Shutterstock\n\n\n\n\n\nHolobionts & Hydrothermal Vent Ecology\nHydrothermal vents provide a remarkable natural laboratory for exploring one of ecology’s most fundamental questions: how interactions among organisms give rise to increasingly complex biological systems. I am fascinated by the ways symbioses blur the boundaries of individuality, transforming animals, their microbial symbionts, and even the viruses that infect those symbionts into tightly integrated biological systems.\nMy research investigates hydrothermal vent holobionts across multiple levels of biological organization, from host–microbe and phage–microbe interactions to patterns of microbial biogeography and population connectivity. By combining oceanographic fieldwork with molecular ecology, population genomics, and bioinformatics, I seek to understand how evolutionary history, dispersal, and ecological interactions shape these nested biological systems in one of Earth’s most extreme environments.\nHydrothermal vent in the Lau Basin. Image credit: WHOI, ROV Jason."
+  },
+  {
+    "objectID": "research.html#environmental-dna-fisheries-science",
+    "href": "research.html#environmental-dna-fisheries-science",
+    "title": "Research (Under Construction)",
+    "section": "Environmental DNA & Fisheries Science",
+    "text": "Environmental DNA & Fisheries Science\n\nEnvironmental DNA (eDNA) provides a powerful, non-invasive approach for monitoring marine biodiversity and fisheries resources. Rather than relying exclusively on physically capturing organisms, eDNA detects genetic material continuously released into the environment, allowing species to be surveyed from seawater alone.\nMy current postdoctoral research at the University of Washington and NOAA develops quantitative eDNA methods for fisheries management and ecosystem monitoring. I integrate qPCR, metabarcoding, fisheries acoustics, oceanographic sampling, and statistical modeling to investigate fish abundance, species distributions, and community composition across the California Current Ecosystem.\n\nCurrent focal species\n\nPacific hake (Merluccius productus)\nPacific sardine (Sardinops sagax)\nNorthern anchovy (Engraulis mordax)"
+  },
+  {
+    "objectID": "research.html#hydrothermal-vent-holobionts",
+    "href": "research.html#hydrothermal-vent-holobionts",
+    "title": "Research (Under Construction)",
+    "section": "Hydrothermal Vent Holobionts",
+    "text": "Hydrothermal Vent Holobionts\n\n Image: WHOI ROV Jason\n Image: Dexter Davis\n Image: WHOI ROV Jason\n\nMy doctoral research focused on deep-sea hydrothermal vent ecosystems, where animals depend on microbial symbionts rather than photosynthesis for survival.\nI investigate hydrothermal vent holobionts across multiple levels of biological organization—from host–microbe symbioses to bacteriophage interactions and microbial population genomics—primarily in the vent gastropod genera Alviniconcha and Ifremeria and the vent mussel genus Bathymodiolus. hese systems provide natural laboratories for studying evolution, dispersal, adaptation, and the emergence of biological complexity. My research examines how environmental gradients, microbial interactions, environmental disturbance, and evolutionary history shape symbiont diversity, population connectivity, abundance, and function."
+  },
+  {
+    "objectID": "research.html#metabarcoding-community-ecology",
+    "href": "research.html#metabarcoding-community-ecology",
+    "title": "Research (Under Construction)",
+    "section": "Metabarcoding & Community Ecology",
+    "text": "Metabarcoding & Community Ecology\n\nBeyond species-specific analyses, I use environmental DNA metabarcoding to characterize entire marine communities.\nBy combining high-throughput sequencing with ecological statistics, I investigate community composition, species co-occurrence, biodiversity change through time, and ecosystem responses to environmental variability. These approaches allow us to study ecological communities at scales that are otherwise impossible using traditional sampling methods.\nApplications include:\n\nCommunity composition\nSpecies co-occurrence\nBiodiversity monitoring\nEcosystem assessment\nTime-series analyses"
+  },
+  {
+    "objectID": "research.html#research",
+    "href": "research.html#research",
+    "title": "Michelle Hauer",
+    "section": "",
+    "text": "My research combines molecular ecology, quantitative modeling, oceanography, and bioinformatics to understand marine ecosystems that are difficult—or impossible—to observe directly. From hydrothermal vent symbioses thousands of meters below the ocean surface to pelagic fisheries across the California Current, I use molecular data to investigate biodiversity, species interactions, population connectivity, and ecosystem dynamics."
+  },
+  {
+    "objectID": "research.html#population-genomics-symbiosis-at-hydrothermal-vents",
+    "href": "research.html#population-genomics-symbiosis-at-hydrothermal-vents",
+    "title": "Research (Under Construction)",
+    "section": "Population Genomics & Symbiosis at Hydrothermal Vents",
+    "text": "Population Genomics & Symbiosis at Hydrothermal Vents\n\n Image: WHOI ROV Jason\n Image: Dexter Davis\n Image: WHOI ROV Jason\n\nMy doctoral research focused on deep-sea hydrothermal vent ecosystems, where animals depend on microbial symbionts rather than photosynthesis for survival.\nI investigate hydrothermal vent holobionts across multiple levels of biological organization—from host–microbe symbioses to bacteriophage interactions and microbial population genomics—primarily in the vent gastropod genera Alviniconcha and Ifremeria and the vent mussel genus Bathymodiolus. hese systems provide natural laboratories for studying evolution, dispersal, adaptation, and the emergence of biological complexity. My research examines how environmental gradients, microbial interactions, environmental disturbance, and evolutionary history shape symbiont diversity, population connectivity, abundance, and function."
+  },
+  {
+    "objectID": "research.html#quantitative-ecology-and-geospatial-modeling",
+    "href": "research.html#quantitative-ecology-and-geospatial-modeling",
+    "title": "Research (Under Construction)",
+    "section": "Quantitative Ecology and Geospatial Modeling",
+    "text": "Quantitative Ecology and Geospatial Modeling\n\nOne of the central goals of my research is transforming molecular observations into ecological inference.\nI develop spatial and spatiotemporal statistical models that integrate environmental DNA with oceanographic variables and NOAA fisheries survey data to estimate species abundance and distribution. These approaches combine molecular ecology with quantitative ecology, geostatistics, and fisheries science to improve our ability to monitor marine populations over large spatial scales.\nCurrent work includes:\n\nGeostatistical eDNA models\nSpatiotemporal abundance estimation\nIntegration of acoustic survey data\nSpecies-specific qPCR calibration\nUncertainty estimation for quantitative eDNA"
+  }
+]
