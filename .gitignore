@@ -1,0 +1,6 @@
+.quarto*
+
+.Rproj.user*
+_site*
+
+images/hero/video.mov

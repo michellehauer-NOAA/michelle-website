@@ -1,0 +1,143 @@
+---
+title: "Fieldwork"
+---
+
+My field research spans deep-sea hydrothermal vents, NOAA fisheries surveys, alpine streams, geothermal landscapes, tropical rainforests, and coastal marine ecosystems. I have spent more than 135 days at sea aboard oceanographic research vessels and have conducted coastal, freshwater, and terrestrial fieldwork across diverse ecological systems, from microbial communities to marine mammals.
+
+## Oceanographic Expeditions
+
+::: {.grid}
+
+::: {.card}
+
+### NOAA Ship *R/V Shimada*
+
+**California Current Ecosystem · 2025 · 18 days**
+
+NOAA Integrated West Coast Pelagics Survey investigating ecologically and economically important forage fishes. Served as Lead eDNA Scientist, directing daily eDNA sampling operations, coordinating logistics among scientific teams and vessel personnel, and collecting environmental samples using CTD rosette systems to support quantitative fisheries research.
+
+:::
+
+::: {.card}
+
+### R/V *Falkor (too)*
+
+**Western Galápagos Spreading Center · 2023 · 30 days · ROV SuBastian**
+
+Multidisciplinary expedition investigating the biology, chemistry, and geology of hydrothermal vents while searching for previously undiscovered vent systems. Led the Suspended Particulate Rosette (SuPR) sampling team, training and supervising four graduate students during collection of in situ water samples for microbial community and symbiont population genomics.
+
+:::
+
+::: {.card}
+
+### R/V *Thomas G. Thompson*
+
+**Lau Basin · 2022 · 60 days · ROV Jason**
+
+Expedition investigating larval dispersal, microbial symbiosis, and population genomics of Western Pacific hydrothermal vent communities. Led the Suspended Particulate Rosette (SuPR) sampling team, directed colonization device development, deployment, and recovery, participated in invertebrate dissections, and helped generate one of the largest published datasets of free-living hydrothermal vent symbiont DNA.
+
+:::
+
+::: {.card}
+
+### E/V *Nautilus*
+
+**Gorda Ridge · 2018 · 20 days · ROV Hercules**
+
+NASA SUBSEA astrobiology expedition investigating hydrothermal vent systems as analogs for extraterrestrial environments on Europa and Enceladus. Collected and processed in situ water samples using the Suspended Particulate Rosette (SuPR) sampler for microbial and biogeochemical analyses.
+
+:::
+
+::: {.card}
+
+### R/V *Endeavor*
+
+**Baltimore Canyon · 2019 · 7 days**
+
+Expedition testing a novel, low-cost deep-sea benthic grab designed to collect hydrothermal vent invertebrates without requiring ROV-supported operations. Assisted with specimen collection, dissection, preservation, and trained undergraduate researchers in shipboard sampling and laboratory techniques.
+
+:::
+
+:::
+
+## Terrestrial, Freshwater and Coastal Field Research
+
+::: {.grid}
+
+::: {.card}
+
+### Coral Reef Restoration
+
+**Turks and Caicos Reef Fund · Turks and Caicos Islands · 2021**
+
+Conducted snorkeling-based assessments of artificial reef restoration sites, evaluating reef condition and environmental characteristics associated with coral establishment. Documented restoration activities and reef health using underwater photography to support science communication and outreach.
+:::
+
+::: {.card}
+
+### Shark Conservation
+
+**Beneath the Waves · Turks and Caicos Islands · 2021**
+
+Assisted with shark capture and tagging operations, including bait deployment and deployment of Baited Remote Underwater Video Systems (BRUVS) to survey reef-associated shark communities. Documented field operations and shark tagging using underwater photography to support scientific outreach and conservation communication.
+:::
+
+::: {.card}
+
+### Tropical Rainforest Bird Ecology
+
+**ICESI University · Farallones de Cali National Park, Colombia · 2018**
+
+Conducted independent field research in remote tropical rainforest, hiking off-trail for up to 10 hours per day to locate and monitor wild bird nests for ecological and physiological studies. Conducted predator-response and metabolic experiments, collected behavioral and ecological data, and coordinated research activities within a multilingual field station.
+:::
+
+::: {.card}
+### Aquatic Insect Ecology
+
+**Montana · 2017**
+
+Conducted fieldwork in remote watersheds as part of an NSF-funded climate change project investigating aquatic insects. Collected stonefly and environmental samples while wading high-gradient streams, navigating rugged backcountry terrain, and working in bear habitat. Developed molecular protocols for DNA extraction and maintained project databases and metadata.
+:::
+
+::: {.card}
+### Geothermal Microbial Ecology
+
+**Yellowstone National Park, WY · 2017**
+
+Collected microbial mat, sediment, and environmental samples from geothermal hot springs in remote backcountry environments. Measured temperature, pH, dissolved oxygen, salinity, conductivity, and other physicochemical parameters to characterize microbial habitats.
+:::
+
+::: {.card}
+### Fisheries & Fish Ecology
+
+**Chesapeake Bay & Mid-Atlantic Estuaries, MD · 2016**
+
+Conducted laboratory and field research investigating estuarine fish ecology, fisheries conservation, and anthropogenic noise. Performed vessel- and shore-based fish sampling using multiple capture techniques. Contributed to river herring conservation, oyster reef restoration surveys, passive acoustic monitoring, fish tagging studies, and analyses of fish behavior and communication using MATLAB.
+:::
+
+::: {.card}
+### Marine Mammal Research
+
+**Bottlenose Dolphin Research Institute · O'Grove, Spain · 2014**
+
+Conducted vessel-based behavioral observations of free-ranging bottlenose dolphins, performed photo-identification using DARWIN software, managed behavioral databases, assisted with stomach-content analyses, and participated in marine mammal necropsies supporting long-term population monitoring.
+:::
+
+:::
+
+## Field Experience Highlights
+
+::: {.grid}
+
+::: {.card}
+### Field Leadership & Logistics
+
+- Cruise project leadership
+- Sampling coordination across scientific teams
+- Graduate and undergraduate student training
+- Field safety in remote environments
+- International and multilingual field collaboration
+- Science communication through field documentation
+:::
+
+:::

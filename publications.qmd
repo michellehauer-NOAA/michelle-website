@@ -1,0 +1,148 @@
+---
+title: "Publications and Manuscripts"
+---
+
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=AC6482MAAAAJ&sortby=pubdate&view_op=list_works){.btn .btn-primary}
+
+<div class="filter-bar">
+  <button class="filter-button active" onclick="filterPubs('all', this)">All</button>
+  <button class="filter-button" onclick="filterPubs('edna', this)">eDNA</button>
+  <button class="filter-button" onclick="filterPubs('fish', this)">Fish Ecology & Behavior</button>
+  <button class="filter-button" onclick="filterPubs('quantitative', this)">Quantitative Ecology</button>
+  <button class="filter-button" onclick="filterPubs('vents', this)">Hydrothermal Vents</button>
+  <button class="filter-button" onclick="filterPubs('molecular', this)">Molecular Ecology</button>
+  <button class="filter-button" onclick="filterPubs('symbiosis', this)">Symbiosis</button>
+  <button class="filter-button" onclick="filterPubs('phage', this)">Phage</button>
+  <button class="filter-button" onclick="filterPubs('bioacoustics', this)">Soundscape Ecology & Bioacoustics</button>
+</div>
+
+## Submitted Manuscripts
+
+<div class="pub edna molecular social-science">
+<p><strong>Hirsch, S., Brandão Dias, P., Bhattacharjee, S., Hauer, M., & Ip, Y. C. A.</strong><br>
+<em>Embracing Environmental DNA (eDNA): Trust, Skepticism, and Competence in an Emerging Method.</em><br>
+Submitted to <em>Journal of Applied Ecology</em> (Practitioner's Perspective), June 2026.</p>
+<p class="tags"><span>eDNA</span><span>Science & Society</span></p>
+</div>
+
+## Manuscripts in Preparation
+
+<div class="pub edna fish quantitative molecular">
+<p><strong>Hauer, M., Shelton, A., Parsons, K., Parsley, M., Engster, S., Betts, M., Pohl, J., Hyde, J., Clemons, J., Zwolinski, J., Renfree, J., Stierhoff, K., Kelly, R., & Nichols, K.</strong><br>
+<em>Evaluating agreement between environmental DNA- and acoustic-derived models of Pacific sardine and northern anchovy in the California Current Ecosystem.</em><br>
+Manuscript in preparation.</p>
+<p class="tags"><span>eDNA</span><span>Fisheries & Fish Ecology</span><span>Quantitative Ecology</span><span>qPCR</span></p>
+</div>
+
+<div class="pub edna fish quantitative molecular">
+<p><strong>Hauer, M., Shelton, A., Parsons, K., Parsley, M., Engster, S., Betts, M., Pohl, J., Hyde, J., Clemons, J., Kelly, R., & Nichols, K.</strong><br>
+<em>Time-series analysis and geospatial abundance modeling of Pacific hake, Pacific sardine, and northern anchovy using environmental DNA in the California Current Ecosystem.</em><br>
+Manuscript in preparation.</p>
+<p class="tags"><span>eDNA</span><span>Fisheries & Fish Ecology</span><span>Quantitative Ecology</span><span>qPCR</span></p>
+</div>
+
+<div class="pub vents molecular phage symbiosis">
+<p><strong>Hauer, M. A., Klier, K. M., Langwig, M. V., Anantharaman, K., & Beinart, R. A.</strong><br>
+<em>Patterns of lytic phages are more variable than lysogenic phage infections in chemosymbiotic bacterial species through time at hydrothermal vents in the Lau Basin.</em><br>
+Manuscript in preparation for <em>ISME Journal</em>.</p>
+<p class="tags"><span>Hydrothermal Vents</span><span>Population Genomics</span><span>Phage</span><span>Symbiosis</span><span>Deep-Sea Ecology</span></p>
+</div>
+
+<div class="pub vents molecular symbiosis quantitative">
+<p><strong>Hauer, M. A., Becker, J. S., Phillips, B., & Beinart, R. A.</strong><br>
+<em>Free-living, environmental symbiont species from Lau Basin exhibit variable biogeographic and microhabitat abundances.</em><br>
+Manuscript in preparation for <em>ISME Journal</em>.</p>
+<p class="tags"><span>Quantitative Ecology</span><span>Hydrothermal Vents</span><span>Metabarcoding</span><span>Symbiosis</span><span>Deep-Sea Ecology</span></p>
+</div>
+
+## Peer-Reviewed Publications
+
+### 2026
+
+<div class="pub vents molecular symbiosis phage">
+<p><strong>Hauer, M. A., Klier, K. M., Langwig, M. V., Anantharaman, K., & Beinart, R. A.</strong><br>
+<em>Phage-microbe interactions may contribute to the population structure and dynamics of hydrothermal vent symbionts.</em><br>
+<em>ISME Communications</em>, 6(1), ycag022. 2026. <a href="https://doi.org/10.1093/ismeco/ycag022">↗</a></p>
+<p class="tags"><span>Hydrothermal Vents</span><span>Population Genomics</span><span>Phage</span><span>Symbiosis</span><span>Deep-Sea Ecology</span></p>
+</div>
+
+### 2025
+
+<div class="pub vents molecular symbiosis">
+<p><strong>Breusing, C., Hauer, M. A., Hughes, I. V., Becker, J. S., Casagrande, D., Phillips, B. T., Girguis, P. R., & Beinart, R. A.</strong><br>
+<em>Contrasting genomic responses of hydrothermal vent animals and their symbionts to population decline after the Hunga volcanic eruption.</em><br>
+<em>Molecular Ecology</em>, 34(21), e70126. 2025. <a href="https://doi.org/10.1111/mec.70126">↗</a></p>
+<p class="tags"><span>Hydrothermal Vents</span><span>Population Genomics</span><span>Symbiosis</span><span>Deep-Sea Ecology</span></p>
+</div>
+
+### 2024
+
+<div class="pub vents ecology">
+<p><strong>Beinart, R. A., Chaknova, M., Arellano, S. M., Davis, D., Jimenez, V., Calhoun, A., Beaver, T., Becker, J. S., Bergen, S., Betters, M., Brunner, L., Cowell, E. J., Hauer, M., Heffernan, M., Ladd, T., Plowman, C. Q., Rice, L. N., Taradash, A. C., Giachetti, T., & Young, C. M.</strong><br>
+<em>Deep seafloor hydrothermal vent communities buried by volcanic ash from the 2022 Hunga eruption.</em><br>
+<em>Communications Earth & Environment</em>, 5, 254. 2024. <a href="https://doi.org/10.1038/s43247-024-01411-w">↗</a></p>
+<p class="tags"><span>Hydrothermal Vents</span><span>Deep-Sea Ecology</span></p>
+</div>
+
+### 2023
+
+<div class="pub vents molecular symbiosis">
+<p><strong>Hauer, M. A., Breusing, C., Trembath-Reichert, E., Huber, J. A., & Beinart, R. A.</strong><br>
+<em>Geography, not lifestyle, explains the population structure of free-living and host-associated deep-sea hydrothermal vent snail symbionts.</em><br>
+<em>Microbiome</em>, 11, 106. 2023. <a href="https://doi.org/10.1186/s40168-023-01493-2">↗</a></p>
+<p class="tags"><span>Hydrothermal Vents</span><span>Population Genomics</span><span>Symbiosis</span><span>Deep-Sea Ecology</span></p>
+</div>
+
+### 2022
+
+<div class="pub vents molecular symbiosis">
+<p><strong>Breusing, C., Klobusnik, N. H., Hauer, M. A., & Beinart, R. A.</strong><br>
+<em>Genome assembly of the chemosynthetic endosymbiont of the hydrothermal vent snail</em> <em>Alviniconcha adamantis</em> <em>from the Mariana Arc.</em><br>
+<em>G3: Genes|Genomes|Genetics</em>, 12(10), jkac220. 2022. <a href="https://doi.org/10.1093/g3journal/jkac220">↗</a></p>
+<p class="tags"><span>Hydrothermal Vents</span><span>Genomics</span><span>Symbiosis</span><span>Deep-Sea Ecology</span></p>
+</div>
+
+### 2020
+
+<div class="pub vents ecology">
+<p><strong>Lim, D. S. S., Raineault, N. A., Breier, J. A., Chan, E., Chernov, J., Cohen, T., Deans, M., Garcia, A., German, C. R., Hauer, M., Hu, S., Huber, J. A., Kane, R., Nawotniak, S. K., Lees, D., Lowe, J., Lubetkin, M., Marsh, L., Milesi, V., et al.</strong><br>
+<em>SUBSEA 2019 Expedition to the Gorda Ridge.</em><br>
+<em>Oceanography</em>, 33(1), 36–37. 2020. <a href="https://doi.org/10.5670/oceanog.2020.supplement.01">↗</a></p>
+<p class="tags"><span>Hydrothermal Vents</span><span>Deep-Sea Ecology</span></p>
+</div>
+
+### 2018
+
+<div class="pub fish bioacoustics">
+<p><strong>Staaterman, E., Brandl, S. J., Hauer, M., Casey, J. M., Gallagher, A. J., & Rice, A. N.</strong><br>
+<em>Individual voices in a cluttered soundscape: acoustic ecology of the Bocon toadfish,</em> <em>Amphichthys cryptocentrus</em>.<br>
+<em>Environmental Biology of Fishes</em>, 101(6), 979–995. 2018. <a href="https://doi.org/10.1007/s10641-018-0752-0">↗</a></p>
+<p class="tags"><span>Soundscape Ecology</span><span>Fish Behavior</span></p>
+</div>
+
+### 2015
+
+<div class="pub bioacoustics">
+<p><strong>Jachowski, V. M., Kenny, L., Hauer, M., Kühn, A., & Barrett, S.</strong><br>
+<em>A Preliminary Study of Soundscape Analysis as a Measurement of Ecosystem Health.</em><br>
+<em>DePaul Discoveries</em>, 4(1). 2015. <a href="https://via.library.depaul.edu/depaul-disc/vol4/iss1/5/">↗</a></p>
+<p class="tags"><span>Soundscape Ecology</span></p>
+</div>
+
+<script>
+function filterPubs(category, button) {
+  const pubs = document.querySelectorAll(".pub");
+  const buttons = document.querySelectorAll(".filter-button");
+
+  buttons.forEach(btn => btn.classList.remove("active"));
+  button.classList.add("active");
+
+  pubs.forEach(pub => {
+    if (category === "all" || pub.classList.contains(category)) {
+      pub.style.display = "block";
+    } else {
+      pub.style.display = "none";
+    }
+  });
+}
+</script>

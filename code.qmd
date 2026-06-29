@@ -1,0 +1,65 @@
+---
+title: "Code and Open Science (Under Construction)"
+---
+
+Code
+
+I develop open-source analytical workflows for environmental DNA, quantitative ecology, fisheries science, and molecular ecology. My work emphasizes reproducible research, statistical modeling, and scientific visualization using R, Python, and Git.
+
+---------------------------------------------------
+
+Geospatial eDNA Modeling
+
+Species distribution models for Pacific hake, sardine, and anchovy using sdmTMB, AR1 spatiotemporal models, and NOAA acoustic surveys.
+
+Skills:
+• R
+• sdmTMB
+• INLA
+• GIS
+• Quarto
+
+[GitHub]
+
+---------------------------------------------------
+
+qPCR Analysis Pipelines
+
+Automated workflows for quality control, inhibition detection, standard curves, copy-number estimation, and large-scale qPCR data processing.
+
+Skills:
+• R
+• tidyverse
+• ggplot2
+• Quarto
+
+[GitHub]
+
+---------------------------------------------------
+
+Bioinformatics
+
+Analysis of metagenomes, microbial population genomics, comparative genomics, and environmental sequencing datasets.
+
+Skills:
+• Python
+• Bash
+• Snakemake
+• Linux
+
+---------------------------------------------------
+
+Interactive Visualization
+
+Interactive figures, websites, dashboards, and scientific reports built with Quarto.
+
+Examples:
+• This website
+• Interactive maps
+• Publication-quality figures
+
+---------------------------------------------------
+
+Open Source
+
+GitHub profile

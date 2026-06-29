@@ -1,0 +1,36 @@
+---
+title: "Contact"
+---
+
+**Michelle Hauer**
+
+Postdoctoral Scholar
+
+University of Washington - School of Marine and Environmental Affairs & and the National Oceanic & Atmospheric Administration's (NOAA) Northwest Fisheries Science Center, in support of the Genetics and Evolution Program within the Conservation Biology Division. 
+
+
+# Contact
+
+<div class="contact-links">
+
+<i class="bi bi-envelope-fill"></i> <a href="mailto:michelle.hauer@noaa.gov">michelle.hauer@noaa.gov</a>
+
+<i class="bi bi-mortarboard-fill"></i> <a href="https://scholar.google.com/citations?hl=en&user=AC6482MAAAAJ&sortby=pubdate&view_op=list_works">Google Scholar</a>
+
+<i class="bi bi-github"></i> <a href="https://github.com/michellehauer">GitHub-Personal</a>
+
+<i class="bi bi-github"></i> <a href="https://github.com/michellehauer-NOAA">GitHub-NOAA</a>
+
+<i class="bi bi-linkedin"></i> <a href="https://www.linkedin.com/in/michelle-hauer-172439151/">LinkedIn</a>
+
+<i class="bi bi-twitter-x"></i> <a href="https://x.com/minna_natura">X</a>
+
+<link rel="stylesheet"
+href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+
+<div class="contact-item">
+  <i class="fa-brands fa-bluesky"></i>
+  <a href="https://bsky.app/profile/yourhandle.bsky.social">Bluesky</a>
+</div> <i class="bi bi-bluesky"></i>
+
+</div>
